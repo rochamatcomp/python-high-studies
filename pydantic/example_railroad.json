@@ -1,0 +1,5567 @@
+{
+  "init_date": 1598918400,
+  "end_date": 1601424000,
+  "demands": [
+    {
+      "flow": 600000,
+      "product": "sugar",
+      "client": "Bunge Açúcar",
+      "origin": "5ecd7e046c4dc6feb18f813a",
+      "origin_name": "(ZZB) TIUB - Açúcar",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          15700,
+          21980,
+          21980,
+          21980,
+          12560
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 253467,
+      "product": "sugar",
+      "client": "Vale do Tijuco Açúcar e Álcool Ltda.",
+      "origin": "5ecd7e046c4dc6feb18f813a",
+      "origin_name": "(ZZB) TIUB - Açúcar",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          2000,
+          4000,
+          4000,
+          4000,
+          1500
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252858,
+      "product": "corn",
+      "client": "Gavilon",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          13333.33,
+          18666.67,
+          18666.67,
+          18666.67,
+          10666.67
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252834,
+      "product": "corn",
+      "client": "BTG",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          11000,
+          15400,
+          15400,
+          15400,
+          8800
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252820,
+      "product": "corn",
+      "client": "Caramuru",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          6666.667,
+          9333.333,
+          9333.333,
+          9333.333,
+          5333.333
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252628,
+      "product": "corn",
+      "client": "Louis Dreyfus",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e326c4dc6feb18f8141",
+      "destiny_name": "(ICZ) Conceicaozinha",
+      "demand": {
+        "9": [
+          5833.333,
+          8166.667,
+          8166.667,
+          8166.667,
+          4666.667
+        ]
+      },
+      "distance": 819.874001,
+      "min": {
+        "9": [
+          5000,
+          7000,
+          7000,
+          7000,
+          4000
+        ]
+      }
+    },
+    {
+      "flow": 252794,
+      "product": "corn",
+      "client": "ADM",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e326c4dc6feb18f8142",
+      "destiny_name": "(ISN) Santos",
+      "demand": {
+        "9": [
+          13333.33,
+          18666.67,
+          18666.67,
+          18666.67,
+          10666.67
+        ]
+      },
+      "distance": 802.438001,
+      "min": {
+        "9": [
+          9500,
+          13300,
+          13300,
+          13300,
+          7600
+        ]
+      }
+    },
+    {
+      "flow": 252888,
+      "product": "corn",
+      "client": "Nidera",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          5000,
+          7000,
+          7000,
+          7000,
+          4000
+        ]
+      },
+      "distance": 802.001001,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252621,
+      "product": "corn",
+      "client": "Cargill",
+      "origin": "5ecd7e046c4dc6feb18f813b",
+      "origin_name": "(ZZB) TIUB - Grãos",
+      "destiny": "5ecd7e326c4dc6feb18f8141",
+      "destiny_name": "(ICZ) Conceicaozinha",
+      "demand": {
+        "9": [
+          7500,
+          10500,
+          10500,
+          10500,
+          6000
+        ]
+      },
+      "distance": 819.874001,
+      "min": {
+        "9": [
+          6666.666666666666,
+          9333.333333333332,
+          9333.333333333332,
+          9333.333333333332,
+          5333.333333333333
+        ]
+      }
+    },
+    {
+      "flow": 252918,
+      "product": "sugar",
+      "client": "Czarnikow",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          4350,
+          6090,
+          6090,
+          6090,
+          3480
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252218,
+      "product": "sugar",
+      "client": "Bunge Açúcar",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e326c4dc6feb18f8142",
+      "destiny_name": "(ISN) Santos",
+      "demand": {
+        "9": [
+          1666.667,
+          2333.333,
+          2333.333,
+          2333.333,
+          1333.333
+        ]
+      },
+      "distance": 650.247,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 253458,
+      "product": "sugar",
+      "client": "cofco",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          20000,
+          30000,
+          30000,
+          30000,
+          20000
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252947,
+      "product": "sugar",
+      "client": "Copersucar",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          10000,
+          14000,
+          14000,
+          14000,
+          8000
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252949,
+      "product": "sugar",
+      "client": "BIOSEV BIOENERGIA",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e326c4dc6feb18f8141",
+      "destiny_name": "(ICZ) Conceicaozinha",
+      "demand": {
+        "9": [
+          11466.667,
+          16053.333,
+          16053.333,
+          16053.333,
+          9173.333
+        ]
+      },
+      "distance": 654,
+      "min": {
+        "9": [
+          11466.666666666668,
+          16053.333333333334,
+          16053.333333333334,
+          16053.333333333334,
+          9173.333333333334
+        ]
+      }
+    },
+    {
+      "flow": 252948,
+      "product": "sugar",
+      "client": "BIOSEV BIOENERGIA",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          3000,
+          5000,
+          5000,
+          5000,
+          2000
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 252241,
+      "product": "sugar",
+      "client": "Bunge Açúcar",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          23000,
+          30000,
+          30000,
+          30000,
+          19000
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 253535,
+      "product": "sugar",
+      "client": "Tereos",
+      "origin": "5ecd7e046c4dc6feb18f8139",
+      "origin_name": "(ZGU) TIGU",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          20000,
+          30000,
+          30000,
+          30000,
+          13000
+        ]
+      },
+      "distance": 641.469,
+      "min": {
+        "9": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "flow": 253655,
+      "product": "soy_bran",
+      "client": "Caramuru",
+      "origin": "5ecd7e296c4dc6feb18f813e",
+      "origin_name": "(EPO) Ipameri",
+      "destiny": "5ecd7e326c4dc6feb18f8142",
+      "destiny_name": "(ISN) Santos",
+      "demand": {
+        "9": [
+          5500,
+          7700,
+          7700,
+          7700,
+          4400
+        ]
+      },
+      "distance": 1060,
+      "min": {
+        "9": [
+          4500,
+          6300,
+          6300,
+          6300,
+          3600
+        ]
+      }
+    },
+    {
+      "flow": 253689,
+      "product": "soy_bran",
+      "client": "Selecta",
+      "origin": "5ecd7e296c4dc6feb18f813d",
+      "origin_name": "(EBJ) Brejo Alegre",
+      "destiny": "5ecd7e1c6c4dc6feb18f813c",
+      "destiny_name": "(IUF) TIPLAM",
+      "demand": {
+        "9": [
+          4500,
+          6300,
+          6300,
+          6300,
+          3600
+        ]
+      },
+      "distance": 945.340001,
+      "min": {
+        "9": [
+          4500,
+          6300,
+          6300,
+          6300,
+          3600
+        ]
+      }
+    },
+    {
+      "flow": 251038,
+      "product": "sugar",
+      "client": "Copersucar",
+      "origin": "5ecd7e296c4dc6feb18f813f",
+      "origin_name": "(ZMQ) Mato Seco",
+      "destiny": "5ecd7e326c4dc6feb18f8142",
+      "destiny_name": "(ISN) Santos",
+      "demand": {
+        "9": [
+          5600,
+          5600,
+          0,
+          0,
+          0
+        ]
+      },
+      "distance": 370.247,
+      "min": {
+        "9": [
+          1866.6666666666665,
+          2613.333333333333,
+          2613.333333333333,
+          2613.333333333333,
+          1493.3333333333333
+        ]
+      }
+    },
+    {
+      "flow": 252966,
+      "product": "sugar",
+      "client": "BIOSEV BIOENERGIA",
+      "origin": "5ecd7e296c4dc6feb18f813f",
+      "origin_name": "(ZMQ) Mato Seco",
+      "destiny": "5ecd7e326c4dc6feb18f8141",
+      "destiny_name": "(ICZ) Conceicaozinha",
+      "demand": {
+        "9": [
+          0,
+          5600,
+          0,
+          5600,
+          0
+        ]
+      },
+      "distance": 374,
+      "min": {
+        "9": [
+          1866.6666666666665,
+          2613.333333333333,
+          2613.333333333333,
+          2613.333333333333,
+          1493.3333333333333
+        ]
+      }
+    },
+    {
+      "flow": 1020,
+      "product": "sugar",
+      "client": "Copersucar",
+      "origin": "5ecd7e296c4dc6feb18f8140",
+      "origin_name": "(ZRP) Ribeirão Preto",
+      "destiny": "5ecd7e326c4dc6feb18f8142",
+      "destiny_name": "(ISN) Santos",
+      "demand": {
+        "9": [
+          10000,
+          20000,
+          20000,
+          20000,
+          10000
+        ]
+      },
+      "distance": 557.247,
+      "min": {
+        "9": [
+          13333.333333333332,
+          18666.666666666664,
+          18666.666666666664,
+          18666.666666666664,
+          10666.666666666666
+        ]
+      }
+    }
+  ],
+  "vessels_all": [
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1597460400,
+      "eta_max": 1598952840,
+      "minimum_load_percentage": 80,
+      "op_month": true,
+      "product": "corn",
+      "volume": 63000,
+      "client": "Gavilon",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "MV Bright Pegasus"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1599217200,
+      "eta_max": 1599217200,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "Bunge",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "MV JUPITER"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1599188400,
+      "eta_max": 1599188400,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 60000,
+      "client": "cofco",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "MV MOON GLOBE"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1600225200,
+      "eta_max": 1600225200,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "CGG - Cantagalo General Grains",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN ECTP"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1600398000,
+      "eta_max": 1600398000,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "Caramuru",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN CARAMURU"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1600484400,
+      "eta_max": 1600484400,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "soy_bran",
+      "volume": 24000,
+      "client": "Selecta",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN SELECTA"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1600311600,
+      "eta_max": 1600311600,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "Cargill",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN CARGILL"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1598410800,
+      "eta_max": 1598410800,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 63000,
+      "client": "Cargill",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "MV LONDON"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1599274800,
+      "eta_max": 1599274800,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "Gavilon",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN GAVILON"
+    },
+    {
+      "port_id": "5ecd7e1c6c4dc6feb18f813c",
+      "port_name": "(IUF) TIPLAM",
+      "eta_min": 1600570800,
+      "eta_max": 1600570800,
+      "minimum_load_percentage": 80,
+      "op_month": false,
+      "product": "corn",
+      "volume": 65000,
+      "client": "Bunge",
+      "simulate_stock": true,
+      "initial_volume": 0,
+      "name": "TBN BUNGE"
+    }
+  ],
+  "maintenance": [
+    {
+      "instance_id": "5ecd7e046c4dc6feb18f813a",
+      "instance_name": "[Terminal próprio] (ZZB) TIUB - Açúcar",
+      "date": 1598929200,
+      "unavailable_hours": 96,
+      "reason": "",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": null,
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        100,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e046c4dc6feb18f813a",
+      "instance_name": "[Terminal próprio] (ZZB) TIUB - Açúcar",
+      "date": 1598929200,
+      "unavailable_hours": 240,
+      "reason": "",
+      "type": "expedition",
+      "max_vol_allowed": 0,
+      "allowed_products": null,
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        100
+      ]
+    },
+    {
+      "instance_id": "5ecd7e3b6c4dc6feb18f8145",
+      "instance_name": "[Armazém] Armazém 1",
+      "date": 1599274800,
+      "unavailable_hours": 624,
+      "reason": "armazém virou para açúcar",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": null,
+      "capacity_multipliers": [
+        41,
+        41
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e3b6c4dc6feb18f8145",
+      "instance_name": "[Armazém] Armazém 1",
+      "date": 1600138800,
+      "unavailable_hours": 384,
+      "reason": "teste 2",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": null,
+      "capacity_multipliers": [
+        53,
+        53
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f813d",
+      "instance_name": "[Terminal de terceiro] (EBJ) Brejo Alegre",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "corn"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f813f",
+      "instance_name": "[Terminal de terceiro] (ZMQ) Mato Seco",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "sugar"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f8140",
+      "instance_name": "[Terminal de terceiro] (ZRP) Ribeirão Preto",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "sugar"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f813d",
+      "instance_name": "[Terminal de terceiro] (EBJ) Brejo Alegre",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy_bran"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f813d",
+      "instance_name": "[Terminal de terceiro] (EBJ) Brejo Alegre",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e296c4dc6feb18f813e",
+      "instance_name": "[Terminal de terceiro] (EPO) Ipameri",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "storage",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy_bran"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8141",
+      "instance_name": "[Porto de terceiro] (ICZ) Conceicaozinha",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "sugar"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8142",
+      "instance_name": "[Porto de terceiro] (ISN) Santos",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8141",
+      "instance_name": "[Porto de terceiro] (ICZ) Conceicaozinha",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "corn"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8141",
+      "instance_name": "[Porto de terceiro] (ICZ) Conceicaozinha",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8142",
+      "instance_name": "[Porto de terceiro] (ISN) Santos",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "corn"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8142",
+      "instance_name": "[Porto de terceiro] (ISN) Santos",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "sugar"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8141",
+      "instance_name": "[Porto de terceiro] (ICZ) Conceicaozinha",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy_bran"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    },
+    {
+      "instance_id": "5ecd7e326c4dc6feb18f8142",
+      "instance_name": "[Porto de terceiro] (ISN) Santos",
+      "date": 1587427260,
+      "unavailable_hours": 24,
+      "reason": "Tiradentes",
+      "type": "receive",
+      "max_vol_allowed": 0,
+      "allowed_products": [
+        "soy_bran"
+      ],
+      "capacity_multipliers": [
+        0,
+        0
+      ],
+      "rates_multipliers": [
+        0,
+        0
+      ]
+    }
+  ],
+  "terminals": [
+    {
+      "id": "5ecd7e046c4dc6feb18f813a",
+      "name": "(ZZB) TIUB - Açúcar",
+      "send": true,
+      "initial_stock": [
+        {
+          "product": "sugar",
+          "client": "Diversos Agricultura",
+          "volume": 13200,
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM"
+        },
+        {
+          "product": "sugar",
+          "client": "Diversos Agricultura",
+          "volume": 7000,
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos"
+        }
+      ],
+      "rates": [
+        {
+          "product": "sugar",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 8.333333333333334,
+          "limit": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ]
+        },
+        {
+          "product": "sugar",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            13200,
+            13200,
+            13200,
+            13200,
+            13200,
+            13200,
+            13200
+          ]
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8144",
+          "name": "Armazém 1",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f8150",
+              "name": "Célula 1",
+              "numCell": 1,
+              "last_reset": 1598918400,
+              "setup": {},
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    70000
+                  ],
+                  null
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e046c4dc6feb18f813b",
+      "name": "(ZZB) TIUB - Grãos",
+      "send": true,
+      "initial_stock": [
+        {
+          "product": "corn",
+          "client": "POOL",
+          "volume": 59266,
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos"
+        },
+        {
+          "product": "corn",
+          "client": "POOL",
+          "volume": 14245,
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM"
+        },
+        {
+          "product": "corn",
+          "client": "POOL",
+          "volume": 18913,
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha"
+        }
+      ],
+      "rates": [
+        {
+          "product": "soy",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 14.583333333333334,
+          "limit": [
+            350,
+            350,
+            350,
+            350,
+            350,
+            350,
+            350
+          ]
+        },
+        {
+          "product": "corn",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 14.583333333333334,
+          "limit": [
+            350,
+            350,
+            350,
+            350,
+            350,
+            350,
+            350
+          ]
+        },
+        {
+          "product": "soy",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            24000,
+            24000,
+            24000,
+            24000,
+            24000,
+            24000,
+            24000
+          ]
+        },
+        {
+          "product": "corn",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            24000,
+            24000,
+            24000,
+            24000,
+            24000,
+            24000,
+            24000
+          ]
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8145",
+          "name": "Armazém 1",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f8153",
+              "name": "Célula 3",
+              "numCell": 3,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ],
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8154",
+              "name": "Célula 4",
+              "numCell": 4,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8156",
+              "name": "Célula 6",
+              "numCell": 6,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    25000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    25000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8152",
+              "name": "Célula 2",
+              "numCell": 2,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8151",
+              "name": "Célula 1",
+              "numCell": 1,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ],
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8155",
+              "name": "Célula 5",
+              "numCell": 5,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ],
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8157",
+              "name": "Célula 7",
+              "numCell": 7,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8158",
+              "name": "Célula 8",
+              "numCell": 8,
+              "last_reset": 1598918400,
+              "setup": {
+                "corn": {
+                  "soy": 5
+                },
+                "soy": {
+                  "corn": 5
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    25000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    25000
+                  ],
+                  30
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e046c4dc6feb18f8139",
+      "name": "(ZGU) TIGU",
+      "send": true,
+      "initial_stock": [
+        {
+          "product": "sugar",
+          "client": "Diversos Agricultura",
+          "volume": 135000,
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM"
+        },
+        {
+          "product": "sugar",
+          "client": "Diversos Agricultura",
+          "volume": 7000,
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos"
+        }
+      ],
+      "rates": [
+        {
+          "product": "sugar",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            21000,
+            21000,
+            21000,
+            21000,
+            21000,
+            21000,
+            21000
+          ]
+        },
+        {
+          "product": "sugar",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 12.666666666666666,
+          "limit": [
+            304,
+            304,
+            304,
+            304,
+            304,
+            304,
+            304
+          ]
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "5ee7b0bf93085901785027b2",
+          "name": "Armazém 2",
+          "cells": [
+            {
+              "id": "5ee7b1d393085901785027b5",
+              "name": "Célula 1",
+              "numCell": 1,
+              "last_reset": 1598918400,
+              "setup": {},
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    120000
+                  ],
+                  null
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8143",
+          "name": "Armazém 1",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f814f",
+              "name": "Célula 1",
+              "numCell": 1,
+              "last_reset": 1598918400,
+              "setup": {},
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    40000
+                  ],
+                  null
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ports": [
+    {
+      "id": "5ecd7e1c6c4dc6feb18f813c",
+      "name": "(IUF) TIPLAM",
+      "fiscal_pool": [],
+      "initial_stock": [
+        {
+          "product": "soy_bran",
+          "client": "POOL",
+          "volume": 2500,
+          "destiny": null,
+          "destiny_name": null
+        },
+        {
+          "product": "corn",
+          "client": "CGG - Cantagalo General Grains",
+          "volume": 68806,
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM"
+        },
+        {
+          "product": "sugar",
+          "client": "Diversos Agricultura",
+          "volume": 57940,
+          "destiny": null,
+          "destiny_name": null
+        }
+      ],
+      "mill_hoppers": [
+        {
+          "id": "5ecd7e9b6c4dc6feb18f8171",
+          "name": "Moega 1",
+          "line_travel_times": {
+            "in": 0,
+            "out": 0
+          },
+          "products": [
+            "corn",
+            "soy",
+            "soy_bran"
+          ],
+          "rates": [
+            {
+              "product": "sugar",
+              "operation": "receive",
+              "capacity": 12.7,
+              "limit": 304
+            },
+            {
+              "product": "soy_bran",
+              "operation": "receive",
+              "capacity": 8.7,
+              "limit": 210
+            },
+            {
+              "product": "soy",
+              "operation": "receive",
+              "capacity": 15.6,
+              "limit": 380
+            },
+            {
+              "product": "corn",
+              "operation": "receive",
+              "capacity": 12.7,
+              "limit": 304
+            }
+          ],
+          "setup": {
+            "corn": {
+              "soy": 10,
+              "soy_bran": 16
+            },
+            "soy": {
+              "corn": 10,
+              "soy_bran": 16
+            },
+            "soy_bran": {
+              "corn": 0,
+              "soy": 0
+            }
+          }
+        },
+        {
+          "id": "5ecd7e9b6c4dc6feb18f8172",
+          "name": "Moega 2",
+          "line_travel_times": {
+            "in": 0,
+            "out": 0
+          },
+          "products": [
+            "sugar"
+          ],
+          "rates": [
+            {
+              "product": "sugar",
+              "operation": "receive",
+              "capacity": 12.7,
+              "limit": 304
+            },
+            {
+              "product": "soy_bran",
+              "operation": "receive",
+              "capacity": 8.7,
+              "limit": 210
+            },
+            {
+              "product": "soy",
+              "operation": "receive",
+              "capacity": 15.6,
+              "limit": 380
+            },
+            {
+              "product": "corn",
+              "operation": "receive",
+              "capacity": 12.7,
+              "limit": 304
+            }
+          ],
+          "setup": {
+            "sugar": {}
+          }
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8146",
+          "name": "Armazém 1",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f8159",
+              "name": "Célula 1",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy_bran": {
+                  "soy": 0,
+                  "corn": 0,
+                  "sugar": 0
+                },
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    35000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    33000
+                  ],
+                  30
+                ],
+                "soy_bran": [
+                  [
+                    0,
+                    33000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f815a",
+              "name": "Célula 2",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "soy_bran": {
+                  "soy": 0,
+                  "corn": 0,
+                  "sugar": 0
+                }
+              },
+              "capacity": {
+                "soy": [
+                  [
+                    0,
+                    45000
+                  ],
+                  30
+                ],
+                "soy_bran": [
+                  [
+                    0,
+                    0
+                  ],
+                  30
+                ],
+                "corn": [
+                  [
+                    0,
+                    49000
+                  ],
+                  45
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8148",
+          "name": "Armazém 3",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f815d",
+              "name": "Célula 1",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ],
+                "corn": [
+                  [
+                    0,
+                    42000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    39000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f815e",
+              "name": "Célula 2",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ],
+                "corn": [
+                  [
+                    0,
+                    42000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    39000
+                  ],
+                  30
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8149",
+          "name": "Armazém 4",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f815f",
+              "name": "Célula 1",
+              "last_reset": 1598918400,
+              "setup": {
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f8160",
+              "name": "Célula 2",
+              "last_reset": 1598918400,
+              "setup": {
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "5ecd7e3b6c4dc6feb18f8147",
+          "name": "Armazém 2",
+          "cells": [
+            {
+              "id": "5ecd7e566c4dc6feb18f815b",
+              "name": "Célula 1",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    42000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    39000
+                  ],
+                  30
+                ]
+              }
+            },
+            {
+              "id": "5ecd7e566c4dc6feb18f815c",
+              "name": "Célula 2",
+              "last_reset": 1598918400,
+              "setup": {
+                "soy": {
+                  "corn": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                },
+                "corn": {
+                  "soy": 0,
+                  "soy_bran": 0,
+                  "sugar": 0
+                }
+              },
+              "capacity": {
+                "corn": [
+                  [
+                    0,
+                    42000
+                  ],
+                  45
+                ],
+                "soy": [
+                  [
+                    0,
+                    39000
+                  ],
+                  30
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "5f3e96599fe37211c6d143ac",
+          "name": "Armazém 5",
+          "cells": [
+            {
+              "id": "5f3e9d049fe37211c6d143b0",
+              "name": "Célula 1",
+              "last_reset": 1598918400,
+              "setup": {
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ]
+              }
+            },
+            {
+              "id": "5f3e9d049fe37211c6d143b1",
+              "name": "Célula 2",
+              "last_reset": 1598918400,
+              "setup": {
+                "sugar": {
+                  "soy": 0,
+                  "corn": 0,
+                  "soy_bran": 0
+                }
+              },
+              "capacity": {
+                "sugar": [
+                  [
+                    0,
+                    57000
+                  ],
+                  null
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "tide": {
+        "9": [
+          [
+            [
+              2.5,
+              1.4
+            ],
+            [
+              8.38,
+              0
+            ],
+            [
+              14.65,
+              1.4
+            ],
+            [
+              20.9,
+              0.4
+            ]
+          ],
+          [
+            [
+              2.82,
+              1.4
+            ],
+            [
+              9,
+              -0.1
+            ],
+            [
+              15,
+              1.4
+            ],
+            [
+              21.32,
+              0.3
+            ]
+          ],
+          [
+            [
+              3.1,
+              1.5
+            ],
+            [
+              9.68,
+              0
+            ],
+            [
+              15.4,
+              1.4
+            ],
+            [
+              21.78,
+              0.3
+            ]
+          ],
+          [
+            [
+              3.47,
+              1.5
+            ],
+            [
+              10.32,
+              0
+            ],
+            [
+              15.9,
+              1.4
+            ],
+            [
+              22.15,
+              0.3
+            ]
+          ],
+          [
+            [
+              3.9,
+              1.4
+            ],
+            [
+              10.97,
+              0.1
+            ],
+            [
+              16.32,
+              1.4
+            ],
+            [
+              22.43,
+              0.4
+            ]
+          ],
+          [
+            [
+              4.28,
+              1.4
+            ],
+            [
+              11.6,
+              0.3
+            ],
+            [
+              16.82,
+              1.3
+            ],
+            [
+              22.53,
+              0.4
+            ]
+          ],
+          [
+            [
+              4.72,
+              1.2
+            ],
+            [
+              12.18,
+              0.4
+            ],
+            [
+              17.22,
+              1.2
+            ],
+            [
+              22.63,
+              0.5
+            ]
+          ],
+          [
+            [
+              5.07,
+              1.1
+            ],
+            [
+              12.93,
+              0.5
+            ],
+            [
+              17.75,
+              1.1
+            ],
+            [
+              22.9,
+              0.5
+            ]
+          ],
+          [
+            [
+              5.5,
+              1
+            ],
+            [
+              13.88,
+              0.6
+            ],
+            [
+              18.22,
+              1
+            ],
+            [
+              23.22,
+              0.6
+            ]
+          ],
+          [
+            [
+              10.85,
+              1
+            ],
+            [
+              15.1,
+              0.7
+            ],
+            [
+              18.97,
+              0.9
+            ],
+            [
+              23.15,
+              0.7
+            ]
+          ],
+          [
+            [
+              0.9,
+              0.7
+            ],
+            [
+              5.78,
+              0.7
+            ],
+            [
+              11.85,
+              1.1
+            ],
+            [
+              16.65,
+              0.7
+            ]
+          ],
+          [
+            [
+              0.53,
+              0.9
+            ],
+            [
+              6.18,
+              0.5
+            ],
+            [
+              12.63,
+              1.3
+            ],
+            [
+              18.07,
+              0.6
+            ]
+          ],
+          [
+            [
+              0.97,
+              1
+            ],
+            [
+              6.65,
+              0.3
+            ],
+            [
+              13.32,
+              1.4
+            ],
+            [
+              19.03,
+              0.5
+            ]
+          ],
+          [
+            [
+              1.43,
+              1.2
+            ],
+            [
+              7.22,
+              0.2
+            ],
+            [
+              14.03,
+              1.5
+            ],
+            [
+              19.75,
+              0.4
+            ]
+          ],
+          [
+            [
+              1.93,
+              1.3
+            ],
+            [
+              7.82,
+              0
+            ],
+            [
+              14.75,
+              1.6
+            ],
+            [
+              20.43,
+              0.3
+            ]
+          ],
+          [
+            [
+              2.38,
+              1.4
+            ],
+            [
+              8.47,
+              0
+            ],
+            [
+              15.35,
+              1.6
+            ],
+            [
+              21.07,
+              0.2
+            ]
+          ],
+          [
+            [
+              2.75,
+              1.5
+            ],
+            [
+              9.13,
+              -0.1
+            ],
+            [
+              15.88,
+              1.5
+            ],
+            [
+              21.68,
+              0.1
+            ]
+          ],
+          [
+            [
+              3.13,
+              1.5
+            ],
+            [
+              9.78,
+              0
+            ],
+            [
+              16.28,
+              1.4
+            ],
+            [
+              22.25,
+              0.2
+            ]
+          ],
+          [
+            [
+              3.53,
+              1.5
+            ],
+            [
+              10.4,
+              0.1
+            ],
+            [
+              16.47,
+              1.3
+            ],
+            [
+              22.88,
+              0.2
+            ]
+          ],
+          [
+            [
+              4,
+              1.5
+            ],
+            [
+              11.03,
+              0.3
+            ],
+            [
+              16.68,
+              1.2
+            ],
+            [
+              23.4,
+              0.3
+            ]
+          ],
+          [
+            [
+              4.5,
+              1.4
+            ],
+            [
+              11.65,
+              0.4
+            ],
+            [
+              16.85,
+              1
+            ]
+          ],
+          [
+            [
+              0.03,
+              0.4
+            ],
+            [
+              5.03,
+              1.2
+            ],
+            [
+              12.22,
+              0.6
+            ],
+            [
+              16.78,
+              1
+            ]
+          ],
+          [
+            [
+              0.85,
+              0.5
+            ],
+            [
+              5.72,
+              1.1
+            ],
+            [
+              9.18,
+              0.8
+            ],
+            [
+              10.97,
+              0.9
+            ],
+            [
+              13.07,
+              0.8
+            ],
+            [
+              16.15,
+              0.9
+            ],
+            [
+              20.9,
+              0.7
+            ],
+            [
+              22.88,
+              0.7
+            ]
+          ],
+          [
+            [
+              1.93,
+              0.5
+            ],
+            [
+              6.85,
+              0.9
+            ],
+            [
+              8.9,
+              0.8
+            ],
+            [
+              12.03,
+              1
+            ],
+            [
+              15.68,
+              0.9
+            ],
+            [
+              20.75,
+              0.7
+            ],
+            [
+              23.88,
+              0.8
+            ]
+          ],
+          [
+            [
+              3.43,
+              0.5
+            ],
+            [
+              12.78,
+              1.1
+            ],
+            [
+              20.38,
+              0.6
+            ]
+          ],
+          [
+            [
+              0.5,
+              0.9
+            ],
+            [
+              5.15,
+              0.4
+            ],
+            [
+              13.1,
+              1.2
+            ],
+            [
+              20.25,
+              0.6
+            ]
+          ],
+          [
+            [
+              0.97,
+              1.1
+            ],
+            [
+              6.07,
+              0.3
+            ],
+            [
+              13.35,
+              1.2
+            ],
+            [
+              20.18,
+              0.6
+            ]
+          ],
+          [
+            [
+              1.32,
+              1.2
+            ],
+            [
+              6.68,
+              0.2
+            ],
+            [
+              13.47,
+              1.3
+            ],
+            [
+              19.75,
+              0.5
+            ]
+          ],
+          [
+            [
+              1.65,
+              1.3
+            ],
+            [
+              7.25,
+              0.1
+            ],
+            [
+              13.72,
+              1.4
+            ],
+            [
+              19.82,
+              0.4
+            ]
+          ],
+          [
+            [
+              2,
+              1.4
+            ],
+            [
+              7.9,
+              0
+            ],
+            [
+              14.03,
+              1.4
+            ],
+            [
+              20.22,
+              0.3
+            ]
+          ]
+        ]
+      },
+      "cradles": [
+        {
+          "id": "5ecd7ea86c4dc6feb18f8176",
+          "name": "Berço 4",
+          "warehouses": [],
+          "products": [],
+          "setup": {},
+          "tide_threshold": [
+            {
+              "product": "fertilizer",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 40000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 40001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            }
+          ],
+          "stops": {
+            "climate_percentage": {},
+            "intrinsic_percentage": {},
+            "maintenance_percentage": {}
+          },
+          "op_constants": {},
+          "rates": [],
+          "travel_time": {}
+        },
+        {
+          "id": "5ecd7ea86c4dc6feb18f8174",
+          "name": "Berço 2",
+          "warehouses": [
+            "5ecd7e3b6c4dc6feb18f8146",
+            "5ecd7e3b6c4dc6feb18f8147",
+            "5ecd7e3b6c4dc6feb18f8148"
+          ],
+          "products": [
+            "corn",
+            "soy",
+            "soy_bran"
+          ],
+          "setup": {
+            "corn": {
+              "soy": 4,
+              "soy_bran": 6
+            },
+            "soy": {
+              "corn": 4,
+              "soy_bran": 4
+            },
+            "soy_bran": {
+              "corn": 0,
+              "soy": 0
+            }
+          },
+          "tide_threshold": [
+            {
+              "product": "sugar",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            },
+            {
+              "product": "corn",
+              "volume_intervals": [
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                },
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                }
+              ]
+            },
+            {
+              "product": "soy_bran",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            },
+            {
+              "product": "soy",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            }
+          ],
+          "stops": {
+            "climate_percentage": {
+              "corn": 0,
+              "soy": 0,
+              "soy_bran": 0
+            },
+            "intrinsic_percentage": {
+              "corn": 0,
+              "soy": 0,
+              "soy_bran": 0
+            },
+            "maintenance_percentage": {
+              "corn": 0,
+              "soy": 0,
+              "soy_bran": 0
+            }
+          },
+          "op_constants": {
+            "corn": {
+              "preop": 0,
+              "posop": 0
+            },
+            "soy": {
+              "preop": 0,
+              "posop": 0
+            },
+            "soy_bran": {
+              "preop": 0,
+              "posop": 0
+            }
+          },
+          "rates": [
+            {
+              "product": "soy",
+              "rate": 900
+            },
+            {
+              "product": "soy_bran",
+              "rate": 625
+            },
+            {
+              "product": "corn",
+              "rate": 1000
+            }
+          ],
+          "travel_time": {
+            "soy": {
+              "enter": 0,
+              "leave": 0
+            },
+            "soy_bran": {
+              "enter": 0,
+              "leave": 0
+            },
+            "corn": {
+              "enter": 0,
+              "leave": 0
+            }
+          }
+        },
+        {
+          "id": "5ecd7ea86c4dc6feb18f8175",
+          "name": "Berço 3",
+          "warehouses": [
+            "5ecd7e3b6c4dc6feb18f8148",
+            "5ecd7e3b6c4dc6feb18f8149",
+            "5f3e96599fe37211c6d143ac"
+          ],
+          "products": [
+            "sugar"
+          ],
+          "setup": {
+            "sugar": {}
+          },
+          "tide_threshold": [
+            {
+              "product": "soy_bran",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            },
+            {
+              "product": "corn",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            },
+            {
+              "product": "soy",
+              "volume_intervals": [
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                },
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                }
+              ]
+            },
+            {
+              "product": "sugar",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 60000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 60001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            }
+          ],
+          "stops": {
+            "climate_percentage": {
+              "sugar": 0
+            },
+            "intrinsic_percentage": {
+              "sugar": 0
+            },
+            "maintenance_percentage": {
+              "sugar": 0
+            }
+          },
+          "op_constants": {
+            "sugar": {
+              "preop": 0,
+              "posop": 0
+            }
+          },
+          "rates": [
+            {
+              "product": "sugar",
+              "rate": 850
+            }
+          ],
+          "travel_time": {
+            "sugar": {
+              "enter": 0,
+              "leave": 0
+            }
+          }
+        },
+        {
+          "id": "5ecd7ea86c4dc6feb18f8173",
+          "name": "Berço 1",
+          "warehouses": [],
+          "products": [],
+          "setup": {},
+          "tide_threshold": [
+            {
+              "product": "sulfur",
+              "volume_intervals": [
+                {
+                  "initial_volume": 40001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                },
+                {
+                  "initial_volume": 1,
+                  "end_volume": 40000,
+                  "threshold": 0.1
+                }
+              ]
+            },
+            {
+              "product": "fertilizer",
+              "volume_intervals": [
+                {
+                  "initial_volume": 40001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                },
+                {
+                  "initial_volume": 1,
+                  "end_volume": 40000,
+                  "threshold": 0.1
+                }
+              ]
+            },
+            {
+              "product": "rock",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 40000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 40001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            },
+            {
+              "product": "ammonia",
+              "volume_intervals": [
+                {
+                  "initial_volume": 1,
+                  "end_volume": 40000,
+                  "threshold": 0.1
+                },
+                {
+                  "initial_volume": 40001,
+                  "end_volume": 100000,
+                  "threshold": 1.1
+                }
+              ]
+            }
+          ],
+          "stops": {
+            "climate_percentage": {},
+            "intrinsic_percentage": {},
+            "maintenance_percentage": {}
+          },
+          "op_constants": {},
+          "rates": [],
+          "travel_time": {}
+        }
+      ]
+    }
+  ],
+  "third_ports": [
+    {
+      "id": "5ecd7e326c4dc6feb18f8142",
+      "name": "(ISN) Santos",
+      "capacity": [
+        {
+          "product": "soy",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "corn",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "sugar",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "soy_bran",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e326c4dc6feb18f8141",
+      "name": "(ICZ) Conceicaozinha",
+      "capacity": [
+        {
+          "product": "sugar",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "corn",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "soy",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "soy_bran",
+          "operation": "receive",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    }
+  ],
+  "third_terminals": [
+    {
+      "id": "5ecd7e296c4dc6feb18f813e",
+      "name": "(EPO) Ipameri",
+      "capacity": [
+        {
+          "product": "soy_bran",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e296c4dc6feb18f813d",
+      "name": "(EBJ) Brejo Alegre",
+      "capacity": [
+        {
+          "product": "corn",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "soy_bran",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        },
+        {
+          "product": "soy",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e296c4dc6feb18f813f",
+      "name": "(ZMQ) Mato Seco",
+      "capacity": [
+        {
+          "product": "sugar",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ecd7e296c4dc6feb18f8140",
+      "name": "(ZRP) Ribeirão Preto",
+      "capacity": [
+        {
+          "product": "sugar",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    }
+  ],
+  "railroad": {
+    "trains_frequency": [
+      {
+        "pear": true,
+        "exchange": true,
+        "mill_hopper_id": "5ee0d8f6af08b4187a57928b",
+        "mill_hopper_name": "Moega Nova",
+        "port_id": "5ecd7e1c6c4dc6feb18f813c",
+        "port_name": "TIPLAM",
+        "occupancies": [
+          {
+            "initial_date": 1588291200,
+            "end_date": 1588291200,
+            "number_trains": 4,
+            "discharge_time": 12,
+            "setup_time": 3,
+            "product": "sugar"
+          }
+        ]
+      }
+    ],
+    "exchange": [
+      {
+        "destiny": "5ecd7e1c6c4dc6feb18f813c",
+        "destiny_name": "(IUF) TIPLAM",
+        "max_trains": 8,
+        "day_interval": 1,
+        "train_multiplicity": 1,
+        "station_id": "5ecd7e046c4dc6feb18f8139",
+        "station_name": "QAL",
+        "efficiency": 95
+      },
+      {
+        "destiny": "5ecd7d646c4dc6feb18f74b4",
+        "destiny_name": "(ZAL)",
+        "max_trains": 1,
+        "day_interval": 1,
+        "train_multiplicity": 1,
+        "station_id": "5ecd7e046c4dc6feb18f8139",
+        "station_name": "QAL",
+        "efficiency": 95
+      },
+      {
+        "destiny": "5ecd7e326c4dc6feb18f8141",
+        "destiny_name": "(ICZ) Conceicaozinha",
+        "max_trains": 1,
+        "day_interval": 1,
+        "train_multiplicity": 1,
+        "station_id": "5ecd7e046c4dc6feb18f8139",
+        "station_name": "QAL",
+        "efficiency": 95
+      },
+      {
+        "destiny": "5ecd7e326c4dc6feb18f8142",
+        "destiny_name": "(ISN) Santos",
+        "max_trains": 3,
+        "day_interval": 2,
+        "train_multiplicity": 1,
+        "station_id": "5ecd7e046c4dc6feb18f8139",
+        "station_name": "QAL",
+        "efficiency": 95
+      },
+      {
+        "destiny": "5ecd7dcd6c4dc6feb18f79ec",
+        "destiny_name": "(IFA)",
+        "max_trains": 1,
+        "day_interval": 1,
+        "train_multiplicity": 1,
+        "station_id": "5ecd7e046c4dc6feb18f8139",
+        "station_name": "QAL",
+        "efficiency": 95
+      }
+    ],
+    "migration": [
+      {
+        "fleet_origin": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_origin_name": "(12202) Grãos MP",
+        "fleet_destiny": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_destiny_name": "(12204) Açúcar Granel Santos",
+        "n_wagons": 76,
+        "time": 96,
+        "init_date": 1599188400
+      },
+      {
+        "fleet_origin": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_origin_name": "(12202) Grãos MP",
+        "fleet_destiny": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_destiny_name": "(12204) Açúcar Granel Santos",
+        "n_wagons": 76,
+        "time": 96,
+        "init_date": 1599102000
+      },
+      {
+        "fleet_origin": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_origin_name": "(12202) Grãos MP",
+        "fleet_destiny": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_destiny_name": "(12204) Açúcar Granel Santos",
+        "n_wagons": 76,
+        "time": 96,
+        "init_date": 1599015600
+      },
+      {
+        "fleet_origin": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_origin_name": "(12202) Grãos MP",
+        "fleet_destiny": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_destiny_name": "(12204) Açúcar Granel Santos",
+        "n_wagons": 76,
+        "time": 96,
+        "init_date": 1598929200
+      }
+    ],
+    "wagons_per_train": [
+      {
+        "product": "soy",
+        "max_wagons": 78
+      },
+      {
+        "product": "sugar",
+        "max_wagons": 76
+      },
+      {
+        "product": "corn",
+        "max_wagons": 76
+      },
+      {
+        "product": "soy_bran",
+        "max_wagons": 76
+      }
+    ],
+    "premise": [
+      {
+        "product": "sugar",
+        "origin": "5ecd7e296c4dc6feb18f813f",
+        "origin_name": "(ZMQ) Mato Seco",
+        "capacity": 76.7
+      },
+      {
+        "product": "sugar",
+        "origin": "5ecd7e296c4dc6feb18f8140",
+        "origin_name": "(ZRP) Ribeirão Preto",
+        "capacity": 75.15
+      },
+      {
+        "product": "sugar",
+        "origin": "5ecd7e046c4dc6feb18f813a",
+        "origin_name": "(ZZB) TIUB - Açúcar",
+        "capacity": 75.7
+      },
+      {
+        "product": "corn",
+        "origin": "5ecd7e046c4dc6feb18f813b",
+        "origin_name": "(ZZB) TIUB - Grãos",
+        "capacity": 76.1
+      },
+      {
+        "product": "sugar",
+        "origin": "5ecd7e046c4dc6feb18f8139",
+        "origin_name": "(ZGU) TIGU",
+        "capacity": 75.7
+      },
+      {
+        "product": "soy_bran",
+        "origin": "5ecd7e296c4dc6feb18f813e",
+        "origin_name": "(EPO) Ipameri",
+        "capacity": 62.74
+      },
+      {
+        "product": "soy_bran",
+        "origin": "5ecd7e296c4dc6feb18f813d",
+        "origin_name": "(EBJ) Brejo Alegre",
+        "capacity": 75.4
+      },
+      {
+        "product": "corn",
+        "origin": "5ecd7e296c4dc6feb18f813d",
+        "origin_name": "(EBJ) Brejo Alegre",
+        "capacity": 76.1
+      },
+      {
+        "product": "soy",
+        "origin": "5ecd7e296c4dc6feb18f813d",
+        "origin_name": "(EBJ) Brejo Alegre",
+        "capacity": 73.2
+      },
+      {
+        "product": "soy",
+        "origin": "5ecd7e046c4dc6feb18f813b",
+        "origin_name": "(ZZB) TIUB - Grãos",
+        "capacity": 73.42
+      }
+    ],
+    "initial_fleet": [
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "total_wagons": 1899,
+        "full": [
+          {
+            "product": "soy_bran",
+            "origin": "5ecd7e296c4dc6feb18f813d",
+            "origin_name": "(EBJ) Brejo Alegre",
+            "destiny": "5ecd7e1c6c4dc6feb18f813c",
+            "destiny_name": "(IUF) TIPLAM",
+            "value": 3.7
+          },
+          {
+            "product": "soy_bran",
+            "origin": "5ecd7e296c4dc6feb18f813e",
+            "origin_name": "(EPO) Ipameri",
+            "destiny": "5ecd7e326c4dc6feb18f8142",
+            "destiny_name": "(ISN) Santos",
+            "value": 3.7
+          },
+          {
+            "product": "corn",
+            "origin": "5ecd7e046c4dc6feb18f813b",
+            "origin_name": "(ZZB) TIUB - Grãos",
+            "destiny": "5ecd7e326c4dc6feb18f8142",
+            "destiny_name": "(ISN) Santos",
+            "value": 7
+          },
+          {
+            "product": "corn",
+            "origin": "5ecd7e046c4dc6feb18f813b",
+            "origin_name": "(ZZB) TIUB - Grãos",
+            "destiny": "5ecd7e1c6c4dc6feb18f813c",
+            "destiny_name": "(IUF) TIPLAM",
+            "value": 47
+          },
+          {
+            "product": "corn",
+            "origin": "5ecd7e046c4dc6feb18f813b",
+            "origin_name": "(ZZB) TIUB - Grãos",
+            "destiny": "5ecd7e326c4dc6feb18f8141",
+            "destiny_name": "(ICZ) Conceicaozinha",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "total_wagons": 1982,
+        "full": [
+          {
+            "product": "sugar",
+            "origin": "5ecd7e046c4dc6feb18f8139",
+            "origin_name": "(ZGU) TIGU",
+            "destiny": "5ecd7e326c4dc6feb18f8141",
+            "destiny_name": "(ICZ) Conceicaozinha",
+            "value": 5
+          },
+          {
+            "product": "sugar",
+            "origin": "5ecd7e046c4dc6feb18f8139",
+            "origin_name": "(ZGU) TIGU",
+            "destiny": "5ecd7e1c6c4dc6feb18f813c",
+            "destiny_name": "(IUF) TIPLAM",
+            "value": 38.8
+          },
+          {
+            "product": "sugar",
+            "origin": "5ecd7e296c4dc6feb18f8140",
+            "origin_name": "(ZRP) Ribeirão Preto",
+            "destiny": "5ecd7e326c4dc6feb18f8142",
+            "destiny_name": "(ISN) Santos",
+            "value": 9.9
+          },
+          {
+            "product": "sugar",
+            "origin": "5ecd7e296c4dc6feb18f813f",
+            "origin_name": "(ZMQ) Mato Seco",
+            "destiny": "5ecd7e326c4dc6feb18f8141",
+            "destiny_name": "(ICZ) Conceicaozinha",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "cycles": [
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "corn",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                4.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 9
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy_bran",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813d",
+          "origin_name": "(EBJ) Brejo Alegre",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "change_loco",
+              "origin": [
+                13.09,
+                56.7
+              ],
+              "destiny": [
+                2,
+                2.1,
+                13.9
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813d",
+                  "origin_name": "(EBJ) Brejo Alegre",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 47.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "change_loco",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                38.6,
+                0,
+                40
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813d",
+                  "destiny_name": "(EBJ) Brejo Alegre",
+                  "time": 44.7
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813a",
+          "origin_name": "(ZZB) TIUB - Açúcar",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.75,
+                1.24
+              ],
+              "destiny": [
+                2,
+                2.1,
+                16.4
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813a",
+                  "origin_name": "(ZZB) TIUB - Açúcar",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                0.5,
+                0.5,
+                7.01
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813a",
+                  "destiny_name": "(ZZB) TIUB - Açúcar",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy_bran",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813d",
+          "origin_name": "(EBJ) Brejo Alegre",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "change_loco",
+              "origin": [
+                13.09,
+                56.7
+              ],
+              "destiny": [
+                1.5,
+                3,
+                9
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813d",
+                  "origin_name": "(EBJ) Brejo Alegre",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 47.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 9
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "change_loco",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                38.6,
+                0,
+                40
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813d",
+                  "destiny_name": "(EBJ) Brejo Alegre",
+                  "time": 44.7
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy_bran",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813e",
+          "origin_name": "(EPO) Ipameri",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                2,
+                1
+              ],
+              "destiny": [
+                2,
+                2.1,
+                13.9
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813e",
+                  "origin_name": "(EPO) Ipameri",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 55.25
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                1.8,
+                4.5
+              ],
+              "destiny": [
+                23.17,
+                2,
+                9.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813e",
+                  "destiny_name": "(EPO) Ipameri",
+                  "time": 44.7
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                2,
+                2.1,
+                13.9
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813f",
+          "origin_name": "(ZMQ) Mato Seco",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3.9
+              ],
+              "destiny": [
+                2,
+                2.1,
+                16.4
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813f",
+                  "origin_name": "(ZMQ) Mato Seco",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 6.2
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                0.75,
+                2.85,
+                9.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813f",
+                  "destiny_name": "(ZMQ) Mato Seco",
+                  "time": 4.5
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "corn",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                17
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                4.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 9
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f8139",
+          "origin_name": "(ZGU) TIGU",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                2.47,
+                0
+              ],
+              "destiny": [
+                2,
+                2.1,
+                16.4
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f8139",
+                  "origin_name": "(ZGU) TIGU",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 25.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                0.33,
+                0.5,
+                5.8
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f8139",
+                  "destiny_name": "(ZGU) TIGU",
+                  "time": 26.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                17
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813f",
+          "origin_name": "(ZMQ) Mato Seco",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3.9
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                6
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813f",
+                  "origin_name": "(ZMQ) Mato Seco",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 6.2
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 10.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                0.75,
+                2.85,
+                9.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813f",
+                  "destiny_name": "(ZMQ) Mato Seco",
+                  "time": 4.5
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f8139",
+          "origin_name": "(ZGU) TIGU",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                2.47,
+                0
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                24
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f8139",
+                  "origin_name": "(ZGU) TIGU",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 25.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                0.33,
+                0.5,
+                5.8
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f8139",
+                  "destiny_name": "(ZGU) TIGU",
+                  "time": 26.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f8139",
+          "origin_name": "(ZGU) TIGU",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                2.47,
+                0
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                6
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f8139",
+                  "origin_name": "(ZGU) TIGU",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 25.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 10.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                0.33,
+                0.5,
+                5.8
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f8139",
+                  "destiny_name": "(ZGU) TIGU",
+                  "time": 26.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f8140",
+          "origin_name": "(ZRP) Ribeirão Preto",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                7,
+                2
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                6
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f8140",
+                  "origin_name": "(ZRP) Ribeirão Preto",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 16.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 10.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                1.5
+              ],
+              "destiny": [
+                1,
+                2,
+                12
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f8140",
+                  "destiny_name": "(ZRP) Ribeirão Preto",
+                  "time": 17.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813a",
+          "origin_name": "(ZZB) TIUB - Açúcar",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.75,
+                1.24
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                24
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813a",
+                  "origin_name": "(ZZB) TIUB - Açúcar",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                0.5,
+                0.5,
+                7.01
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813a",
+                  "destiny_name": "(ZZB) TIUB - Açúcar",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f8140",
+          "origin_name": "(ZRP) Ribeirão Preto",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                7,
+                2
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                24
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f8140",
+                  "origin_name": "(ZRP) Ribeirão Preto",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 16.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                1,
+                2,
+                12
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f8140",
+                  "destiny_name": "(ZRP) Ribeirão Preto",
+                  "time": 17.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "corn",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813b",
+          "origin_name": "(ZZB) TIUB - Grãos",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.72,
+                0.75
+              ],
+              "destiny": [
+                2,
+                2.1,
+                13.9
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813b",
+                  "origin_name": "(ZZB) TIUB - Grãos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                0.25,
+                0.5,
+                5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813b",
+                  "destiny_name": "(ZZB) TIUB - Grãos",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f8140",
+          "origin_name": "(ZRP) Ribeirão Preto",
+          "destiny": "5ecd7e326c4dc6feb18f8142",
+          "destiny_name": "(ISN) Santos",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                7,
+                2
+              ],
+              "destiny": [
+                2,
+                2.1,
+                16.4
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f8140",
+                  "origin_name": "(ZRP) Ribeirão Preto",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 16.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 18
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8142",
+                  "destiny_name": "(ISN) Santos",
+                  "time": 28.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                4.8,
+                3
+              ],
+              "destiny": [
+                1,
+                2,
+                12
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8142",
+                  "origin_name": "(ISN) Santos",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 22.4
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f8140",
+                  "destiny_name": "(ZRP) Ribeirão Preto",
+                  "time": 17.1
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd6",
+        "fleet_name": "(12202) Grãos MP",
+        "product": "soy_bran",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813d",
+          "origin_name": "(EBJ) Brejo Alegre",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "change_loco",
+              "origin": [
+                13.09,
+                13.09
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                17
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813d",
+                  "origin_name": "(EBJ) Brejo Alegre",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 47.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "change_loco",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                38.6,
+                0,
+                40
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813d",
+                  "destiny_name": "(EBJ) Brejo Alegre",
+                  "time": 44.7
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e046c4dc6feb18f813a",
+          "origin_name": "(ZZB) TIUB - Açúcar",
+          "destiny": "5ecd7e1c6c4dc6feb18f813c",
+          "destiny_name": "(IUF) TIPLAM",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                0.75,
+                1.24
+              ],
+              "destiny": [
+                0.25,
+                0.25,
+                6
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e046c4dc6feb18f813a",
+                  "origin_name": "(ZZB) TIUB - Açúcar",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 39.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 10.5
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e1c6c4dc6feb18f813c",
+                  "destiny_name": "(IUF) TIPLAM",
+                  "time": 29.9
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                0.8,
+                0.7
+              ],
+              "destiny": [
+                0.5,
+                0.5,
+                7.01
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e1c6c4dc6feb18f813c",
+                  "origin_name": "(IUF) TIPLAM",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 23.8
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e046c4dc6feb18f813a",
+                  "destiny_name": "(ZZB) TIUB - Açúcar",
+                  "time": 37.9
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "fleet": "5ecd7b6a6c4dc6feb18f6bd7",
+        "fleet_name": "(12204) Açúcar Granel Santos",
+        "product": "sugar",
+        "base": {
+          "origin": "5ecd7e296c4dc6feb18f813f",
+          "origin_name": "(ZMQ) Mato Seco",
+          "destiny": "5ecd7e326c4dc6feb18f8141",
+          "destiny_name": "(ICZ) Conceicaozinha",
+          "times": {
+            "full": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3.9
+              ],
+              "destiny": [
+                1.5,
+                1.5,
+                24
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e296c4dc6feb18f813f",
+                  "origin_name": "(ZMQ) Mato Seco",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 6.2
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 13.7
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7e326c4dc6feb18f8141",
+                  "destiny_name": "(ICZ) Conceicaozinha",
+                  "time": 30.5
+                }
+              ]
+            },
+            "empty": {
+              "type": "loco_wait",
+              "origin": [
+                3,
+                3
+              ],
+              "destiny": [
+                0.75,
+                2.85,
+                9.5
+              ],
+              "transit": [
+                {
+                  "origin": "5ecd7e326c4dc6feb18f8141",
+                  "origin_name": "(ICZ) Conceicaozinha",
+                  "destiny": "5ecd7d5e6c4dc6feb18f733e",
+                  "destiny_name": "(ZBL)",
+                  "time": 24.1
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f733e",
+                  "origin_name": "(ZBL)",
+                  "destiny": "5ecd7d5e6c4dc6feb18f7367",
+                  "destiny_name": "(ZOP)",
+                  "time": 10
+                },
+                {
+                  "origin": "5ecd7d5e6c4dc6feb18f7367",
+                  "origin_name": "(ZOP)",
+                  "destiny": "5ecd7e296c4dc6feb18f813f",
+                  "destiny_name": "(ZMQ) Mato Seco",
+                  "time": 4.5
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "bottleneck": {
+    "terminal": [
+      {
+        "id": "5ecd7e046c4dc6feb18f813a",
+        "name": "(ZZB) TIUB - Açúcar",
+        "road_receive": {
+          "structure": {
+            "name": "Moega",
+            "capacities": {
+              "nominal": 200,
+              "operational": 200
+            },
+            "amount_assets": 3
+          }
+        },
+        "railroad_expedition": {
+          "barns": {
+            "name": "Tulha B",
+            "capacity": 1.2,
+            "util_load": 6.03,
+            "setup_time": 0.25,
+            "amount_assets": 1
+          }
+        },
+        "classification": {
+          "time_dolly": 2.33,
+          "load_dolly": 40
+        },
+        "category": "sugar"
+      },
+      {
+        "id": "5ecd7e046c4dc6feb18f813b",
+        "name": "(ZZB) TIUB - Grãos",
+        "road_receive": {
+          "structure": {
+            "name": "Tombador",
+            "capacities": {
+              "nominal": 240,
+              "operational": 240
+            },
+            "amount_assets": 5
+          }
+        },
+        "railroad_expedition": {
+          "barns": {
+            "name": "Tulha A",
+            "capacity": 2,
+            "util_load": 6.03,
+            "setup_time": 0.25,
+            "amount_assets": 1
+          }
+        },
+        "classification": {
+          "time_dolly": 2.33,
+          "load_dolly": 40
+        },
+        "category": "grains"
+      }
+    ],
+    "third_terminal": [
+      {
+        "id": "5ecd7e296c4dc6feb18f813e",
+        "name": "(EPO) Ipameri",
+        "expedition_capacity": {
+          "capacity": 250,
+          "amount_assets": 1
+        },
+        "operational_capacity": {
+          "terminal_time": 24,
+          "amount_wagons": 76,
+          "load_wagon": 78
+        },
+        "category": "grains"
+      },
+      {
+        "id": "5ecd7e296c4dc6feb18f813d",
+        "name": "(EBJ) Brejo Alegre",
+        "expedition_capacity": {
+          "capacity": 240,
+          "amount_assets": 1
+        },
+        "operational_capacity": {
+          "terminal_time": 12,
+          "amount_wagons": 25,
+          "load_wagon": 76
+        },
+        "category": "grains"
+      }
+    ],
+    "port": [
+      {
+        "id": "5ecd7e1c6c4dc6feb18f813c",
+        "name": "(IUF) TIPLAM",
+        "exchange": {
+          "category": "grains",
+          "another_bands": 1.8,
+          "nominal_bands": 10
+        },
+        "railroad_receive": {
+          "mill_hopper": [
+            {
+              "id": "5ecd7e9b6c4dc6feb18f8171",
+              "name": "Moega 1",
+              "capacity": 3,
+              "setup_time": 1.75,
+              "commitment": 90,
+              "category": "grains"
+            }
+          ]
+        },
+        "shipment_expedition": {
+          "cradles": [
+            {
+              "id": "5ecd7ea86c4dc6feb18f8174",
+              "name": "Berço 2",
+              "mooring_time": 0.5,
+              "unberthing_time": 0.5,
+              "setup_time": 4,
+              "vessel_max_load": 65,
+              "capacity": 2.4,
+              "category": "grains"
+            }
+          ]
+        }
+      }
+    ],
+    "assets": {
+      "fleets": [
+        {
+          "id": "5ecd7b6a6c4dc6feb18f6bd6",
+          "name": "Grãos MP",
+          "category": "grains",
+          "wagons_cycle": [
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e1c6c4dc6feb18f813c",
+              "destiny_name": "TIPLAM (IUF)",
+              "cycle_days": 4.5
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813e",
+              "origin_name": "Ipameri (EPO)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 6
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e326c4dc6feb18f8141",
+              "destiny_name": "Conceiçãozinha (ICZ)",
+              "cycle_days": 5
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 4.7
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e1c6c4dc6feb18f813c",
+              "destiny_name": "TIPLAM (IUF)",
+              "cycle_days": 4
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e326c4dc6feb18f8141",
+              "destiny_name": "Conceiçãozinha (ICZ)",
+              "cycle_days": 5.5
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 5.3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "5f60dcaaa79b5d26291c3963",
+  "name": "#PM_092020_v1_BOOK_CS 26/08/2020 19:43",
+  "simulation_code": 999999
+}

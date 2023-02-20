@@ -1,0 +1,35 @@
+{
+  "title": "Simulation",
+  "type": "object",
+  "properties": {
+    "init_date": {
+      "title": "Initial date",
+      "type": "string",
+      "format": "date"
+    },
+    "end_date": {
+      "title": "End date",
+      "type": "string",
+      "format": "date"
+    },
+    "name": {
+      "title": "Simulation name",
+      "type": "string"
+    },
+    "id": {
+      "title": "Simlation ID",
+      "type": "string"
+    },
+    "code": {
+      "title": "Simulation code",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "init_date",
+    "end_date",
+    "name",
+    "id",
+    "code"
+  ]
+}

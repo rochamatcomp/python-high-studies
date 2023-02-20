@@ -1,0 +1,243 @@
+{
+  "init_date": 1598918400,
+  "end_date": 1601424000,
+  "bottlenecks": {
+    "terminals": [
+      {
+        "id": "5ecd7e046c4dc6feb18f813a",
+        "name": "(ZZB) TIUB - Açúcar",
+        "category": "sugar",
+        "flow_type": "origin",
+        "input": {
+          "structure": "Moega",
+          "amount": 3,
+          "capacities": {
+            "nominal": 200,
+            "operational": 200
+          }
+        },
+        "output": {
+          "structure": "Tulha",
+          "amount": 1,
+          "util_load": 6.03,
+          "capacities": {
+            "nominal": 1.2,
+            "operational": 1.2
+          },
+          "setup_times": {
+            "nominal": 0.25,
+            "operational": 0.25
+          }
+        },
+        "classification": {
+          "time_dolly": 2.33,
+          "load_dolly": 40
+        }
+      },
+      {
+        "id": "5ecd7e046c4dc6feb18f813b",
+        "name": "(ZZB) TIUB - Grãos",
+        "category": "grains",
+        "flow_type": "origin",
+        "input": {
+          "structure": "Moega",
+          "amount": 5,
+          "capacities": {
+            "nominal": 240,
+            "operational": 240
+          }
+        },
+        "output": {
+          "structure": "Tulha",
+          "amount": 1,
+          "util_load": 6.03,
+          "capacities": {
+            "nominal": 2,
+            "operational": 2
+          },
+          "setup_times": {
+            "nominal": 0.25,
+            "operational": 0.25
+          }
+        },
+        "classification": {
+          "time_dolly": 2.33,
+          "load_dolly": 40
+        }
+      }
+    ],
+    "third_terminals": [
+      {
+        "id": "5ecd7e296c4dc6feb18f813e",
+        "name": "(EPO) Ipameri",
+        "category": "grains",
+        "flow_type": "origin",
+        "expedition": {
+          "structure": "Moega",
+          "amount": 1,
+          "capacity": 250
+        },
+        "operational": {
+          "terminal_times": {
+            "nominal": 24,
+            "operational": 24
+          },
+          "amount_wagons": {
+            "nominal": 76,
+            "operational": 40
+          },
+          "wagon_loads": {
+            "nominal": 78,
+            "operational": 78
+          }
+        }
+      },
+      {
+        "id": "5ecd7e296c4dc6feb18f813d",
+        "name": "(EBJ) Brejo Alegre",
+        "category": "grains",
+        "flow_type": "origin",
+        "expedition": {
+          "structure": "Moega",
+          "amount": 1,
+          "capacity": 240
+        },
+        "operational": {
+          "terminal_times": {
+            "nominal": 12,
+            "operational": 12
+          },
+          "amount_wagons": {
+            "nominal": 25,
+            "operational": 76
+          },
+          "wagon_loads": {
+            "nominal": 76,
+            "operational": 76
+          }
+        }
+      }
+    ],
+    "ports": [
+      {
+        "id": "5ecd7e1c6c4dc6feb18f813c",
+        "name": "(IUF) TIPLAM",
+        "category": "grains",
+        "flow_type": "destination",
+        "input": [
+          {
+            "id": "5ecd7e9b6c4dc6feb18f8171",
+            "name": "Moega 1",
+            "capacity": 3,
+            "setup_time": 1.75,
+            "commitment": 90
+          }
+        ],
+        "output": [
+          {
+            "id": "5ecd7ea86c4dc6feb18f8174",
+            "name": "Berço 2",
+            "mooring_time": 0.5,
+            "unberthing_time": 0.5,
+            "setup_time": 4,
+            "vessel_max_load": 65,
+            "capacity": 2.4,
+            "category": "grains"
+          }
+        ]
+      }
+    ],
+    "third_ports": [
+      {
+        "id": "5ee0d8f6af08b4187a57928b",
+        "name": "ISN",
+        "flow_type": "destination",
+        "exchange": {
+          "amount_trains_per_day": 1.5,
+          "wagons_per_trains": 76,
+          "load_wagon": 76.1
+        },
+        "categories": [
+          "grains",
+          "sugar"
+        ]
+      },
+      {
+        "id": "5ee0d8f6af08b4187a57928b",
+        "name": "ICZ",
+        "exchange": {
+          "amount_trains_per_day": 1,
+          "wagons_per_trains": 76,
+          "load_wagon": 76.1
+        },
+        "categories": [
+          "grains",
+          "sugar"
+        ]
+      }
+    ],
+    "assets": {
+      "fleets": [
+        {
+          "id": "5ecd7b6a6c4dc6feb18f6bd6",
+          "name": "Grãos MP",
+          "category": "grains",
+          "wagons_cycle": [
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e1c6c4dc6feb18f813c",
+              "destiny_name": "TIPLAM (IUF)",
+              "cycle_days": 4.5
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813e",
+              "origin_name": "Ipameri (EPO)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 6
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e326c4dc6feb18f8141",
+              "destiny_name": "Conceiçãozinha (ICZ)",
+              "cycle_days": 5
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 4.7
+            },
+            {
+              "origin": "5ecd7e046c4dc6feb18f813b",
+              "origin_name": "TIUB - Grãos (ZZB)",
+              "destiny": "5ecd7e1c6c4dc6feb18f813c",
+              "destiny_name": "TIPLAM (IUF)",
+              "cycle_days": 4
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e326c4dc6feb18f8141",
+              "destiny_name": "Conceiçãozinha (ICZ)",
+              "cycle_days": 5.5
+            },
+            {
+              "origin": "5ecd7e296c4dc6feb18f813d",
+              "origin_name": "Brejo Alegre (EBJ)",
+              "destiny": "5ecd7e326c4dc6feb18f8142",
+              "destiny_name": "Santos (ISN)",
+              "cycle_days": 5.3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "5f60dcaaa79b5d26291c3963",
+  "name": "#PM_092020_v1_BOOK_CS 26/08/2020 19:43",
+  "simulation_code": 999999
+}

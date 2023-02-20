@@ -1,0 +1,142 @@
+{
+  "init_date": 1588291200,
+  "end_date": 1590883200,
+  "terminals": [
+    {
+      "name": "TIUB - Grãos",
+      "id": "5ee0d8f6af08b4187a57928b",
+      "send": true,
+      "rates": [
+        {
+          "product": "SOY",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "product": "CORN",
+          "operation": "receive",
+          "modal": "road",
+          "limit": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "product": "CORN",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 27.083333333333332,
+          "limit": [
+            650,
+            650,
+            650,
+            650,
+            650,
+            650,
+            650
+          ]
+        },
+        {
+          "product": "SOY",
+          "operation": "expedition",
+          "modal": "railroad",
+          "capacity": 27.083333333333332,
+          "limit": [
+            650,
+            650,
+            650,
+            650,
+            650,
+            650,
+            650
+          ]
+        }
+      ],
+      "warehouses": [
+        {
+          "name": "Armazém 2",
+          "id": "5ecd7e3b6c4dc6feb18f8145",
+          "cells": [
+            {
+              "name": "Célula 3",
+              "id": "5ecd7e566c4dc6feb18f8153",
+              "numCell": 3,
+              "last_reset": 1588291200,
+              "setup": {
+                "CORN": {
+                  "SOY": 5
+                },
+                "SOY": {
+                  "CORN": 5
+                }
+              },
+              "capacity": {
+                "SOY": [
+                  [
+                    0,
+                    20000
+                  ],
+                  30
+                ],
+                "CORN": [
+                  [
+                    0,
+                    20000
+                  ],
+                  45
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "initial_stock": [
+        {
+          "product": "SOY",
+          "client": "POOL",
+          "destiny_name": "IUF",
+          "destiny": "5ee0d8f6af08b4187a57928b",
+          "volume": 119889
+        }
+      ]
+    }
+  ],
+  "third_terminals": [
+    {
+      "name": "Brejo Alegre",
+      "id": "5ee0d8f6af08b4187a57928b",
+      "capacity": [
+        {
+          "product": "SOY",
+          "operation": "storage",
+          "wagons": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ]
+        }
+      ]
+    }
+  ],
+  "name": "#PM_082020_v87_Teste_Igor 11/8/2020 11:58",
+  "id": "5ee0d8f6af08b4187a57928b",
+  "code": 849155
+}
